@@ -237,3 +237,21 @@ footer a {
     margin-top: 200px;
   }
 }
+.float{
+position:fixed;
+width:45px;
+height:45px;
+bottom:70px;
+right:16px;
+background-color:#25d366;
+color:#FFF;
+border-radius:50px;
+text-align:center;
+  font-size:28px;
+box-shadow: 1px 1px 1px #999;
+  z-index:100;
+} 
+
+.my-float{
+margin-top:8.5px;
+}

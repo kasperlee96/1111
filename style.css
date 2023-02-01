@@ -73,8 +73,8 @@ a {
   background: lightblue;
   object-fit: top;
   position: absolute;
-  top: 85px;
-  left: calc(75% - 40px);
+  top: 80px;
+  left: calc(75% - 50px);
 }
 
 .card {

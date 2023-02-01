@@ -74,7 +74,7 @@ a {
   object-fit: top;
   position: absolute;
   top: 80px;
-  left: calc(78% - 50px);
+  left: calc(75% - 30px);
 }
 
 .card {
